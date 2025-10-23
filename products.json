@@ -22,11 +22,11 @@
   {
     "name": "ccccc",
     "description": "",
-    "src": "/uploadseB5JfTU0.png",
+    "src": "https://raw.githubusercontent.com/Yezery/antique_store_data/main/bd7a5abc-834e-4b14-8539-7d5e13b6dd31.png",
     "status": false,
     "link": "http://localhost:3000/admin/products/product-edit",
     "category": "Test",
-    "updated_at": "2025-10-23T02:15:42.664Z",
+    "updated_at": "2025-10-23T08:42:10.157Z",
     "id": "fc5e9d90-7a09-4a78-8db7-9e168057efc4"
   }
 ]
