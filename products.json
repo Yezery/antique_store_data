@@ -28,5 +28,15 @@
     "category": "seal",
     "updated_at": "2025-10-23T13:26:30.993Z",
     "id": "ace82fbe-e8f1-4330-aade-d79f197e1dd7"
+  },
+  {
+    "name": "seal2",
+    "description": "this a seal",
+    "src": "https://raw.githubusercontent.com/Yezery/antique_store_data/main/65d8cd72-3e76-4623-8d57-f4c822b51b65.webp",
+    "status": true,
+    "link": "www.antiquestore.top",
+    "category": "seal",
+    "updated_at": "2025-10-23T13:27:15.767Z",
+    "id": "c0056d62-9ae8-4e9c-bf8d-2f63984c2047"
   }
 ]
