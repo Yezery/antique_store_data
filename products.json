@@ -18,5 +18,15 @@
     "category": "CERAMIC",
     "updated_at": "2025-10-23T13:25:29.735Z",
     "id": "fc5e9d90-7a09-4a78-8db7-9e168057efc4"
+  },
+  {
+    "name": "seal",
+    "description": "this a seal",
+    "src": "https://raw.githubusercontent.com/Yezery/antique_store_data/main/8bd461b0-2f6f-46b0-b7e9-bed70171f8c6.webp",
+    "status": true,
+    "link": "www.antiquestore.top",
+    "category": "seal",
+    "updated_at": "2025-10-23T13:26:30.993Z",
+    "id": "ace82fbe-e8f1-4330-aade-d79f197e1dd7"
   }
 ]
