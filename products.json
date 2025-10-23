@@ -10,16 +10,6 @@
     "id": "7ef8d286-5a95-4b3a-b7d8-2fe09f40ad88"
   },
   {
-    "name": "Test2",
-    "description": "123123",
-    "src": "/uploadsLWih9XwR.png",
-    "status": false,
-    "link": "http://localhost:3000/admin/products/product-edit",
-    "category": "CERAMIC",
-    "updated_at": "2025-10-23T02:15:22.271Z",
-    "id": "97c6a9e8-357d-4439-bf77-91c2cb3f1b2a"
-  },
-  {
     "name": "ccccc",
     "description": "",
     "src": "https://raw.githubusercontent.com/Yezery/antique_store_data/main/bd7a5abc-834e-4b14-8539-7d5e13b6dd31.png",
