@@ -13,10 +13,10 @@
     "name": "CERAMIC2",
     "description": "",
     "src": "https://raw.githubusercontent.com/Yezery/antique_store_data/main/487eafed-035e-48e2-ac35-a13ffc4c52c5.webp",
-    "status": false,
+    "status": true,
     "link": "http://localhost:3000/admin/products/product-edit",
     "category": "CERAMIC",
-    "updated_at": "2025-10-23T13:25:29.735Z",
+    "updated_at": "2025-10-26T06:57:36.693Z",
     "id": "fc5e9d90-7a09-4a78-8db7-9e168057efc4"
   },
   {
